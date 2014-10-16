@@ -1,1 +1,3 @@
+Take screenshot of of github repository including the cs210/assignment4.txt
 
+print 1 page screenshot w/  name at the top.
